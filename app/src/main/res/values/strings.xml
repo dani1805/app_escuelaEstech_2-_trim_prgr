@@ -1,0 +1,156 @@
+<resources>
+
+    <string name="app_name">Escuela Estech</string>
+
+    <string name="login_title">Login</string>
+
+    <string name="login_username">Usuario</string>
+
+    <string name="login_password">Contraseña</string>
+
+    <string name="title_home">Inicio</string>
+
+    <string name="title_blog">Blog</string>
+
+    <string name="title_gallery">Galería</string>
+
+    <string name="title_contact">Contacto</string>
+
+    <string name="login_forgot_pass">¿Olvidaste la contraseña?</string>
+
+    <string name="login_button">Login</string>
+
+    <string name="login_if_help">¿Necesitas ayuda?</string>
+
+    <string name="login_call_help">Llámanos</string>
+
+    -
+    <array name="premios">
+
+        <item>PS4</item>
+
+        <item>Nintendo Switch</item>
+
+        <item>PC Gaming</item>
+
+    </array>
+
+    <!-- Contacto -->
+
+    <string name="location">C/ San Joaquín, 12\n23700 – Linares (Jaén)</string>
+
+    <string name="phone">Teléfono\n953 636 000</string>
+
+    <string name="whatsapp">Whatsapp\n697 24 60 08</string>
+
+    <string name="mail_info">Correo electrónico\ninfo@escuelaestech.es</string>
+
+    <string name="mail_secretaria">Correo electrónico\nsecretaria@escuelaestech.es</string>
+
+    <string name="contact_title">¿QUÉ QUIERES SABER?</string>
+
+    <string name="contact_name">Nombre</string>
+
+    <string name="contact_mail">Correo electrónico</string>
+
+    <string name="contact_phone">Teléfono</string>
+
+    <string name="contact_msg">Mensaje</string>
+
+    <string name="contact_acepta">Acepto la Política de privacidad y los Términos de servicio.</string>
+
+    <string name="contact_enviar">Enviar</string>
+
+    <!-- Artículos -->
+
+    <string name="art1_title">Inauguración Arena Estech</string>
+
+    <string name="art1_date">2 Marzo, 2020</string>
+
+    -
+    <string name="art1_desc1">
+
+<b>Tu zona de Gaming y de Juegos de Mesa en Linares.</b>
+\nPor fin llega a Linares tu zona gaming, Arena Estech, donde podrás disfrutar de tus videojuegos preferidos: zona PCs, zona videoconsolas. Aparte tendrás una amplia zona de relax y alimentación, y la sección de juegos de mesa…
+</string>
+
+    -
+    <string name="art1_desc2">
+
+<b>Zona Gamer:</b>
+\nOrdenadores con equipación gaming, videoconsolas, torneos, proyección liga profesional y ¡mucho más! \nUno de nuestros principales objetivos es que toda la comunidad gaming de Linares se una en un espacio adaptado a vuestras necesidades con el fin de hacer crecer este colectivo y así brindaros una oportunidad como nunca antes se había visto en esta ciudad.\n\n
+<b>Juegos de Mesa</b>
+\n Aquí dispondréis de vuestra zona de mesas para disfrutar de nuestra colección de juegos o jugar a los vuestros propios en la mejor compañía y con un ambiente único.
+</string>
+
+    -
+    <string name="art1_desc3">
+
+<b>Juego de Cartas:</b>
+\nForce of Will: Force of will es un juego de cartas coleccionables de procedencia japonesa, con una comunidad ya creada en nuestra localidad. Ofrecemos torneos cada mes con recompensas exclusivas, si quieres iniciarte no dudes en venir y ¡aprende a jugar con nosotros! \n\n
+<b>Horario:</b>
+\nJueves y Viernes: 17h a 21h \nSábado y Domingo: 11 a 14h y 17h a 21h.
+</string>
+
+    <string name="art2_title">[tech] day: Tecnologías Innovadoras y sus Aplicaciones.</string>
+
+    <string name="art2_date">20 Febrero, 2020</string>
+
+    -
+    <string name="art2_desc1">
+
+<b>¡Arranca una nueva edición [tech] day!</b>
+\nPresenta Miguel López, director de la escuela es[tech] y Noelia Justicia, concejala de Hacienda del Ayuntamiento de Linares. \nUna jornada organizada por la escuela en la que hablaremos de temáticas relacionadas con la industria de desarrollo de videojuegos, las últimas novedades y tendencias, de la mano de las empresas y asociaciones del sector.
+</string>
+    \n\nJosé Manuel Rodríguez, nuestro primer ponente, viene de la Empresa CAF, del
+    departamentoDigital Manufacturing, nos da una visión global sobre los servicios de
+    digitalización yfabricación e imparte una ponencia titulada: “Digital Manufacturing: fabricación
+    aditiva ydigitalización en el sector ferroviario»
+    <string name="art2_desc2">Alfonso Sánchez, CEO de Vanadis, es nuestro Segundo ponente del [tech] day, Vanadis es una consultora tecnológica referente a nivel nacional en el desarrollo de apps móviles y sofware a medida. Alfonso nos habla de la «Inteligencia Artificial y sus Aplicaciones Prácticas». \n\nTambién nos comenta el cambio que ha supuesto este gran avance en la cadena de valor, la posibilidades de trabajar una IA sin necesidad de programar y nos presenta un caso real.</string>
+
+    <string name="art2_desc3">¡Fin de esta edición [tech] day! \nUna jornada muy intensa en la que hemos podido conocer en primera persona las novedades y tendencias que vienen de la mano de importantes empresas implicadas en la revolución digital actual. \nMuchas gracias a nuestros ponentes y a todos los asistentes que han hecho posible que esta edición sea un éxito. \n\n¡Nos vemos en el próximo [tech] day!</string>
+
+    <string name="art3_title">Nueva edición de nuestra Magazine es[tech]</string>
+
+    <string name="art3_date">4 Febrero, 2020</string>
+
+    <string name="art3_desc1">¡Justo antes de la Navidad publicamos la nueva edición de nuestra es[tech] Magazine! \nCon estas publicaciones perseguimos varios objetivos: \n - crear un punto de encuentro para el arte y la tecnología \n - dar promoción al trabajo y evolución de nuestros alumnos \n - ser una ventana al mundo de la Escuela y sus noticias/eventos \n\nLa revista tiene diversas secciones, empezando con varias muestras de los trabajos de nuestros alumnos, donde podemos ver su proceso y la gran evolución a los dos meses del inicio del curso.</string>
+
+    <string name="art3_desc2">Nuestro profesor de Dibujo y Modelado, Pablo Rocha, presenta la Master Class: La Batidora de Conceptos. En ella enumera los pasos a dar para fusionar elementos, sin relación entre ellos, y desarrollar tú Creatividad. \nHablamos también de los diversos eventos que se dan en y entorno a la Escuela: la visita del Teniente Alcande de Linares, el Desarrollo de Videojuegos en Andalucía, los múltiples talleres educativos que ha realizado es[tech] por toda la provincia, y por supuesto imágenes de nuestra jornada [tech] day.</string>
+
+    <string name="art3_desc3">Continuamos con más muestras de los trabajos de nuestros alumnos, y hablamos sobre los cursos que ofrece la Escuela, Actividades Extraescolares de Robótica y del Diseño del Videojuego, y nuestra Escuela de Doblaje y Locución. \nEsperamos que os guste tanto o más que las anteriores ediciones… esta nueva es[tech] Magazine ha sido un verdadero trabajo de equipo, disfrutadla mucho!</string>
+
+    <string name="art4_title">Premios para finalistas Torneo LOL</string>
+
+    <string name="art4_date">19 Enero, 2020</string>
+
+    <string name="art4_desc1">Hace unos días hicimos entrega de los premios a los ganadores 1º y 2º finalistas del torneo LOL que tuvo lugar el pasado día 5 de Diciembre en el Arena Gaming celebrado durante el BeDigital, en el Pósito de Linares. \nHubo casi 50 participantes en los torneos (turno de mañana y tarde), y la competencia fue intensa.</string>
+
+    <string name="art4_desc2">Haciéndole entrega de los premios a: \n1º Finalista de la mañana David A., silla Gaming \n2º Finalista de la mañana Manuel G., kit Gaming \n1º Finalista de la tarde Adrián V., silla Gaming \n2º Finalista de la tarde David V., kit Gaming</string>
+
+    <string name="art4_desc3">Los premios fueron entregados por Miguel López (Director de la Escuela), y Rocío Cruz (administrativa y comercial de la Escuela). \nOs esperamos en el próximo torneo!!</string>
+
+    <string name="art5_title">Arena Gaming es[tech]</string>
+
+    <string name="art5_date">12 Diciembre, 2019</string>
+
+    <string name="art5_desc1">Este pasado Jueves 5 de Diciembre, tuvo lugar una nueva edición de Be Digital, que se celebró en el Pósito de Linares y que reunió a grandes figuras del emprendimiento, la digitalización y la innovación. \nLa Escuela es[tech], tuvo lugar en ello y organizamos el Arenal Gaming. \nEn esta zona Gaming de es[tech], se desarrollaron torneos de League of Legends, en el que los participantes pudieron demostrar sus habilidades en la batalla.</string>
+
+    <string name="art5_desc2">También contamos con una sección de demostración de tecnologías 3D y realidad virtual. Además de poder probar equipos de videojuegos y programación.\nComienza a desarrollarse la industria del videojuego en la provincia, y es[tech] es parte de ese cambio. \nSeguiremos apostando por la tecnología, innovación, programación, gaming, e-sports, etc…</string>
+
+    <string name="art5_desc3">Fue una espectacular edición del Arena Gaming, muchas gracias a los participantes por asistir, y de ello hacer un gran evento, dinámico y muy divertido.\nEnhorabuena a los ganadores del torneo!!.</string>
+
+    <string name="art6_title">[tech] day: Desarrollando Videojuegos en Andalucía</string>
+
+    <string name="art6_date">28 Noviembre, 2019</string>
+
+    <string name="art6_desc1">En nuestro [tech] day de hoy, hablaremos sobre como se pueden desarrollar los videojuegos en Andalucía y veremos como estrategias implementadas por empresarios y desarrolladores que les han ayudado a emprender sus nuevos proyectos y tener bastante éxito en el mundo del videojuego. \nTambién veremos temáticas relacionadas con la industria de desarrollo del videojuego, las últimas novedades y tendencias de las empresas y asociaciones de sector. \nHemos invitado a algunas de las figuras más representativas del sector.</string>
+
+    <string name="art6_desc2">El evento es presentado por Miguel López, Director de la Escuela es[tech] y Javier Bris Peñalver, Primer Teniente Alcalde del Ayuntamiento de nuestro Municipio Linares. También nos acompaña María Jerez, Gerente de la Cámara de Comercio de Linares, mostrando con su asistencia el apoyo de la instituciones locales al evento. \nNuestros primeros ponentes del tech[day] son Moonlight Games, con Francisco Hermoso y Daniel Burgos, quienes impartirán una potencia titulada «De Jaén a Japón: Hunt the Night, el viaje de un videojuego indie» y nos explican las estrategias implementadas por empresarios y desarrolladores de empresas. \nNos dan consejos para conseguir que el público, los colaboradores con renombre y los medios, para que se fijen en nuestro producto.</string>
+
+    <string name="art6_desc3">¡Fin de esta edición [tech] day! \nUna jornada muy intensa en la que hemos podido conocer a profesionales de este mundo. \nMuchas gracias a los ponentes y a todos los asistentes que han hecho posible que esta edición sea un éxito. \n\n¡Nos vemos en el próximo [tech] day!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
